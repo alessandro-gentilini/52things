@@ -3,7 +3,7 @@
 Martin Bentley
  
 Given the huge scope of geological problems, it is not reasonable to assume that all 
-problems can be solved using large, monolithic problems. The requirements of a geochemist 
+problems can be solved using large, monolithic programs. The requirements of a geochemist 
 will be different to the requirements of a structural geologist. As such, they will work with 
 different computational approaches. However, even within a given field, different problems 
 need to be solved, so your monolithic tool that can handle gravity models does not work with 
@@ -34,7 +34,7 @@ environment this is done by simply altering the parameters to the program that s
 data. 
  
 This also allows people to focus on solving particular sub­problems. So how you will select 
-the datapoints can be changed, and improved. Or you can change the the types . You can 
+the datapoints can be changed, and improved. Or you can change the types. You can 
 also drop a new step into the toolchain with relative ease. Maybe you need to add a 
 fudge­factor to all your readings as a pre­processing step, but after you have selected your 
 datapoints. All this can be done without making anything else work differently. 
